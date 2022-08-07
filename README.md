@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @xyoxo
+- 👋 Hi, I’m Fahim
 - 👀 I’m interested in Golang.
 - 🌱 I’m currently learning security stuff.
 - 💞️ I’m looking to collaborate on golang projects.
